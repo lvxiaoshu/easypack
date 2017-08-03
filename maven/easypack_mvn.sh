@@ -80,7 +80,7 @@ echo "export M2_HOME=${MVN_HOME}/${DIR_NEW_MVN}" >>${PROFILES}
 echo "export PATH=\${M2_HOME}/bin:\$PATH" >>${PROFILES}
 export M2_HOME=${MVN_HOME}/${DIR_NEW_MVN}
 export PATH=${M2_HOME}/bin:$PATH
-
+source /etc/profile
 ###############################################################################
 #
 #CONFIRM VERSION
