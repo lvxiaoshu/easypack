@@ -1,6 +1,6 @@
 # easypack
-# 让Linux下没有难装的流行开源软件
-# Make popular OSS easily installed in linux
+让Linux下没有难装的流行开源软件
+Make popular OSS easily installed in linux
 
 # Why easypack
 ## 快速安装MESOS
@@ -13,8 +13,6 @@ https://github.com/lvxiaoshu/easypack/tree/master/mesos
 https://github.com/lvxiaoshu/easypack/tree/master/k8s
 
 ## 流行开源工具容器实践：Jenkins
-![这里写图片描述](http://img.blog.csdn.net/20170222072632935?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbGl1bWlhb2Nu/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
-
 https://github.com/lvxiaoshu/easypack/tree/master/containers/alpine/jenkins
 ## 流行开源工具容器实践：Redmine
 https://github.com/lvxiaoshu/easypack/tree/master/containers/alpine/redmine
